@@ -35,11 +35,11 @@ void MainWindow::on_pushButton_clicked()
         if (num2 != 0) {
             result = num1 / num2;
         } else {
-            ui->label->setText("Error: Division by zero");
+            ui->label_2->setText("Error: Division by zero");
             return;
         }
     } else {
-        ui->label->setText("Error: Invalid operator");
+        ui->label_2->setText("Error: Invalid operator");
         return;
     }
 
