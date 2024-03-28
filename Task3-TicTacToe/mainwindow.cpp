@@ -19,6 +19,16 @@ MainWindow::~MainWindow()
 void MainWindow::initializeGame()
 {
     currentPlayer = CellState::X;
+    ui->pushButton->setText(""); // Reset text on all buttons
+    ui->pushButton_2->setText("");
+    ui->pushButton_3->setText("");
+    ui->pushButton_4->setText("");
+    ui->pushButton_5->setText("");
+    ui->pushButton_6->setText("");
+    ui->pushButton_7->setText("");
+    ui->pushButton_8->setText("");
+    ui->pushButton_9->setText("");
+
     for (int i = 0; i < 3; ++i) {
         for (int j = 0; j < 3; ++j) {
             gameBoard[i][j] = CellState::Empty;
