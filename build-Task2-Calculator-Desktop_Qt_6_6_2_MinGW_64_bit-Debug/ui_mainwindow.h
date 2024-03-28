@@ -79,7 +79,7 @@ public:
         pushButton->setAutoRepeatInterval(83);
         label_2 = new QLabel(centralwidget);
         label_2->setObjectName("label_2");
-        label_2->setGeometry(QRect(108, 360, 151, 20));
+        label_2->setGeometry(QRect(18, 360, 371, 20));
         label_2->setFont(font);
         label_2->setContextMenuPolicy(Qt::NoContextMenu);
         label_2->setAlignment(Qt::AlignCenter);
