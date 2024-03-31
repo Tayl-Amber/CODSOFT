@@ -35,9 +35,9 @@
 
 
 ## Sample Screenshot:
-![Screenshot 2024-03-31 162206](https://github.com/Tayl-Amber/CODSOFT/assets/152214724/88d8b874-b328-490d-b9a0-b065c4f717ad)
-![Screenshot 2024-03-31 162225](https://github.com/Tayl-Amber/CODSOFT/assets/152214724/90cdd477-3a6c-499c-b3a7-900615b7c825)
-![Screenshot 2024-03-31 162242](https://github.com/Tayl-Amber/CODSOFT/assets/152214724/913ba18b-bbd8-42ae-a691-00f1f935dd08)
+![Screenshot 2024-03-31 184240](https://github.com/Tayl-Amber/CODSOFT/assets/152214724/cdb8bd39-e14d-45ac-8ba3-ed483b3a5612)
+![Screenshot 2024-03-31 184259](https://github.com/Tayl-Amber/CODSOFT/assets/152214724/36779046-0d75-4092-8d95-4c86300b7298)
+![Screenshot 2024-03-31 184313](https://github.com/Tayl-Amber/CODSOFT/assets/152214724/dd91b0bc-2cba-48eb-837b-f864383fc12b)
 
 
 ## Contributing:
