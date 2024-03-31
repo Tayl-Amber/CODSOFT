@@ -22,7 +22,7 @@ Run the compiled executable.
 Follow the on-screen instructions to play the game.
 Sample Screenshot:
 
-## Sample Picture:
+## Sample ScreenShot:
 
 ![Screenshot 2024-03-31 160643](https://github.com/Tayl-Amber/CODSOFT/assets/152214724/4024b013-586e-4673-8a12-b1af64eb7906)
 ![Screenshot 2024-03-31 160739](https://github.com/Tayl-Amber/CODSOFT/assets/152214724/0dfc2f31-68c6-420d-b952-fefef6ade130)
