@@ -39,7 +39,8 @@ Set up the necessary dependencies and environment required to run the TodoList a
 
 Compile and execute the source code to launch the TodoList application.
 
-Sample Screenshot:
+## Sample Screenshot:
+![Screenshot 2024-03-31 184054](https://github.com/Tayl-Amber/CODSOFT/assets/152214724/660e857d-b119-4ba9-8e44-f6cce7282b50)
 
 
 ## Contributing:
